@@ -18,5 +18,5 @@
 * **Visual studio:** edit and debugg javascript code
 * **sublime text:** alternatively edit javascript code
 
-## App link(Deployed to heroku)
+## The app is running on heroku
 <a href="https://crud-spring-boot-app.herokuapp.com/"> Click here to access application </a>
