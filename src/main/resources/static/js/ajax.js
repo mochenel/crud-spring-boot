@@ -6,7 +6,7 @@ $(document).ready(function() {
 	function getData() { 
 
         return $.ajax({
-            url: 'http://localhost:8095/get',
+            url: 'https://crud-spring-boot-app.herokuapp.com/get',
             type: 'get',
             dataType: 'json',
             contentType: 'application/json',
@@ -52,7 +52,7 @@ function postData(mode) {
             </div>
             </div>`;
     return $.ajax({
-        url: 'http://localhost:8095/add?mode='+mode+"&&id="+currId,
+        url: 'https://crud-spring-boot-app.herokuapp.com/add?mode='+mode+"&&id="+currId,
         type: 'post',
         dataType: 'json',
         contentType: 'application/json',
@@ -117,7 +117,7 @@ function openModal(id){
 function deleteRecord(id){
     $('#staticBackdrop').modal('hide');
     return $.ajax({
-        url: `http://localhost:8095/delete?Id=${id}`,
+        url: `https://crud-spring-boot-app.herokuapp.com/delete?Id=${id}`,
         type: 'post',
         dataType: 'json',
         contentType: 'application/json',
