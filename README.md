@@ -1,7 +1,7 @@
 # Spring Boot CRUD operation
 ------------------------------------
 
-###Technologies used:
+##Technologies used:
 *Spring boot : build back end service
 *JSP: engine view
 *Bootstrap: style JSP
@@ -11,7 +11,7 @@
 *JQuery: display data(coming as a response from spring boot) into web page
 ---------------------------------------
 
-###Text editors.
+##Text editors.
 
 *Spring-tool-suite : create,edit and excecute spring boot application.
 *Visual studio: edit and debugg javascript code
