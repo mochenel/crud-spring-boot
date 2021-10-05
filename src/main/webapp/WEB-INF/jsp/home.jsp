@@ -9,7 +9,8 @@
 	<link rel="stylesheet" href="css/font-awesome.min.css">
 	<!-- <link rel="stylesheet" href="css/home.css"> -->
 
-	
+	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6900628053557254"
+     crossorigin="anonymous"></script>
 </head>
 <body>
 
